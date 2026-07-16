@@ -17,7 +17,7 @@
 - QBittorrent
 - JDownloader 2
 - Wallpaper Engine
-- Rainmeter
+- RainMeter
 - BCUninstaller
 - WizTree
 - Everything Search
@@ -38,8 +38,48 @@
 - Spotify
 - File Pilot
 - Herd
+- HomeBrew
 - MSI Center
 - KeyChron Assistant 
+---
+- Fences StarDock
+- Rufus
+- ThrottleStop
+- WinRar
+- Adobe Photoshop
+- Adobe Premiere Pro
+- Adobe InDesign
+- Adobe Acrobat Pro
+- Adobe Illustrator
+- Adobe Animate
+- Adobe After Effects
+- Adobe Audition
+- BlackMagic Design DaVinci Resolve
+- WindHawk
+- Flow Launcher
+- Chris Titus Windows Utility Tool
+- Ventoy
+- Logicly
+- 7Zip
+- WPU
+- HWInfo
+- Deskreen
+- Advanced Partition Tool
+- VLC Media Player
+- Notepad++
+- Sublime Text
+- Files - Alternative File Explorer
+- MathWorks MatLab R2025b
+- Process Lasso
+- R Studio Data Recovery
+- WinScript
+- IBM SPSS Statistics 
+- ABBYY FineReader PDF
+- GIMP
+- HBCD_PE
+- RAMMap
+- Ninite
+- DB Browser for SQLite
 
 --- 
 ## Categories
