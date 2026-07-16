@@ -44,3 +44,7 @@
 --- 
 ## Categories
 
+ Games | Editors | IDE's | File Tools | Customization tools | <br>  Development Tools needs several sub categories <br>
+ Productivity Tools | Entertainment Tools | 
+
+
