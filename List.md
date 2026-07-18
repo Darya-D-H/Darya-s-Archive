@@ -1,51 +1,102 @@
-# List before organized
+# **List before organized**
 
-## Windows 
-- [BlueScreen Viewer](https://bluescreenview.en.softonic.com)
-- CoreTemp
-- AnyDesk
-- WinToys
-- OBS Studio
-- SpaceDesk
-- Microsoft Office 2024
+## *Windows* ~~
+
+## Categories
+
+ Games | Editors | IDE's | File Tools | Customization tools | Development Tools needs several sub categories |
+ Productivity Tools | Entertainment Tools | Diagnostic Tools
+
+---
+
+### Games
+
+- Steam
+- EA Games
+- Epic Games
+
+#### Tools
+
+- ShaderGlass
+- Cheat Engine
+- DS4 Windows
+
+---
+
+### Text Editors
+
+- Zed
+- VS Code
+- Cursor
+- Antigravity
+- Sublime Text
+- Notepad++
+
+---
+
+### IDE's
+
+- PhpStorm
+- Intellij Idea
+- Webstorm
+- DataGrip
+- Pycharm
+- Eclipse
+- Anaconda
+
+---
+
+### File Tools
+
+- File Pilot
+- BCUninstaller
+- WinRAR
+- 7Zip
+- Files - Alternative File Explorer
+- Everything Search
+- Flow Launcher
+- Fences StarDock
+- Advanced Partition Tool
+- WizTree
+
+#### Downloading Tools
+
+- QBittorrent
+- JDownloader 2
+
+---
+
+### Customization Tools
+
+- GlazeWM
+- Zebar
+- Yasb
+- MSI Center
+- KeyChron Assistant
+- Wallpaper Engine
+- RainMeter
+- WindHawk
+
+---
+
+### Development Tools
+
 - Laragon
 - TablePlus
 - Jetbrains Toolbox
 - Dbngin
 - VMware Workstation
-- Virtual Box 
-- QBittorrent
-- JDownloader 2
-- Wallpaper Engine
-- RainMeter
-- BCUninstaller
-- WizTree
-- Everything Search
-- Obsidian
-- Antigravity
-- Cursor 
-- Zed
-- VS Code
-- Cheat Engine
-- ShaderGlass
-- Steam
-- Epic Games
-- EA Games
-- GlazeWM
-- Zebar
-- Yasb
-- WSL
-- Spotify
-- File Pilot
+- Virtual Box
 - Herd
 - HomeBrew
-- MSI Center
-- KeyChron Assistant 
+- WSL
+- DB Browser for SQLite
+- Obsidian
+
 ---
-- Fences StarDock
-- Rufus
-- ThrottleStop
-- WinRar
+
+### Productivity Tools
+
 - Adobe Photoshop
 - Adobe Premiere Pro
 - Adobe InDesign
@@ -54,37 +105,49 @@
 - Adobe Animate
 - Adobe After Effects
 - Adobe Audition
-- BlackMagic Design DaVinci Resolve
-- WindHawk
-- Flow Launcher
-- Chris Titus Windows Utility Tool
-- Ventoy
-- Logicly
-- 7Zip
-- WPU
-- HWInfo
-- Deskreen
-- Advanced Partition Tool
-- VLC Media Player
-- Notepad++
-- Sublime Text
-- Files - Alternative File Explorer
-- MathWorks MatLab R2025b
-- Process Lasso
-- R Studio Data Recovery
-- WinScript
-- IBM SPSS Statistics 
-- ABBYY FineReader PDF
 - GIMP
+- ABBYY FineReader PDF
+- BlackMagic Design DaVinci Resolve
+- Microsoft Office 2024
+
+---
+
+### Entertainment Tools
+
+- Spotify
+- VLC Media Player
+
+---
+
+### Diagnostic Tools
+
 - HBCD_PE
 - RAMMap
+- Process Lasso
+- [BlueScreen Viewer](https://bluescreenview.en.softonic.com)
+- CoreTemp
+- R Studio Data Recovery
+- WPU
+- HWInfo
+- AnyDesk
+
+---
+
+### Utility Tools
+
+- WinScript
+- Chris Titus Windows Utility Tool
+- Ventoy
+- Rufus
+- WinToys
+- ThrottleStop
+- OBS Studio
+- SpaceDesk
+- Deskreen
 - Ninite
-- DB Browser for SQLite
 
---- 
-## Categories
+### Educational Tools
 
- Games | Editors | IDE's | File Tools | Customization tools | <br>  Development Tools needs several sub categories <br>
- Productivity Tools | Entertainment Tools | 
-
-
+- Logicly
+- MathWorks MatLab R2025b
+- IBM SPSS Statistics
