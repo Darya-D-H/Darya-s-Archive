@@ -72,22 +72,32 @@
 - RainMeter
 - WindHawk
 - Fliqlo
+- OpenRGB
 
 ---
 
 ### Development Tools
 
 - Laragon
-- TablePlus
 - Jetbrains Toolbox
-- Dbngin
-- VMware Workstation
-- Virtual Box
 - Herd
+- Lerd
 - HomeBrew
 - WSL
-- DB Browser for SQLite
 - Obsidian
+
+#### Database
+
+- TablePlus
+- DBeaver
+- Beekeeper Studio
+- Dbngin
+- DB Browser for SQLite
+
+#### Virtual Machines
+
+- VMware Workstation
+- Virtual Box
 
 ---
 
@@ -105,6 +115,7 @@
 - ABBYY FineReader PDF
 - BlackMagic Design DaVinci Resolve
 - Microsoft Office 2024
+- Libre Office
 
 ---
 
@@ -120,7 +131,7 @@
 - HBCD_PE
 - RAMMap
 - Process Lasso
-- [BlueScreen Viewer](https://bluescreenview.en.softonic.com)
+- BlueScreen Viewer
 - CoreTemp
 - R Studio Data Recovery
 - WPU
@@ -150,4 +161,11 @@
 - MathWorks MatLab R2025b
 - IBM SPSS Statistics
 
+---
 
+### Browsers
+
+- Chrome
+- OperaGX
+- Vivaldi
+- FireFox Developer Edition
