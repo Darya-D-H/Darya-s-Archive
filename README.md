@@ -26,6 +26,8 @@
 - Antigravity
 - Sublime Text
 - Notepad++
+- Neovim
+- Nano
 
 ---
 
@@ -33,9 +35,13 @@
 
 - PhpStorm
 - Intellij Idea
-- Webstorm
+- WebStorm
 - DataGrip
 - Pycharm
+- Rider
+- CLion
+- RustRover
+- Android Studio
 - Eclipse
 - Anaconda
 
@@ -53,6 +59,7 @@
 - Fences StarDock
 - Advanced Partition Tool
 - WizTree
+- Superfile
 
 #### Downloading Tools
 
@@ -116,6 +123,7 @@
 - BlackMagic Design DaVinci Resolve
 - Microsoft Office 2024
 - Libre Office
+- Blender
 
 ---
 
@@ -137,6 +145,9 @@
 - WPU
 - HWInfo
 - AnyDesk
+- RustDesk
+- Htop
+- Btop
 
 ---
 
