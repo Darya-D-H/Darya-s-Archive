@@ -59,12 +59,17 @@
 - Fences StarDock
 - Advanced Partition Tool
 - WizTree
+- QDirStat
 - Superfile
+- Dolphin
+- GitFourChette
+- Kitty
 
 #### Downloading Tools
 
 - QBittorrent
 - JDownloader 2
+- Motrix
 
 ---
 
@@ -92,6 +97,10 @@
 - HomeBrew
 - WSL
 - Obsidian
+- Mailpit
+- Pest
+- Laravel Forge
+- Rector
 
 #### Database
 
@@ -121,9 +130,10 @@
 - GIMP
 - ABBYY FineReader PDF
 - BlackMagic Design DaVinci Resolve
-- Microsoft Office 2024
+- Microsoft Office
 - Libre Office
 - Blender
+- Drift
 
 ---
 
@@ -163,6 +173,9 @@
 - SpaceDesk
 - Deskreen
 - Ninite
+- Weylus
+- LocalSend
+- Scrcpy
 
 ---
 
@@ -180,3 +193,8 @@
 - OperaGX
 - Vivaldi
 - FireFox Developer Edition
+
+<!-- TODO: Organize subdirectories for Utility tools, Diagnostic tools, Productivity tools-->
+<!-- IDEA:  -->
+<!-- INFO: -->
+<!-- HACK: -->
