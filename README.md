@@ -19,10 +19,6 @@
 | [Education](categories/education.md) | Educational and technical software |
 | [Browsers](categories/browsers.md) | Web browsers |
 
-## Structure
-
-Each category has its own Markdown file so the archive stays easy to browse and extend. The root README acts as the index rather than holding the entire collection.
-
 ## Notes
 
 This is a personal archive, not an endorsement or recommendation list. Names are normalized where the intended product name is clear; entries whose identity is ambiguous are preserved rather than silently removed.
